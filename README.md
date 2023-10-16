@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwinbrett
 - 👀 I’m interested in Powershell scripting
-- 🌱 I’m currently learning VMCE material (Veeam)
+- 🌱 I’m currently learning Azure material.
 - 📫 How to reach me @Edwin@defcon.social on Mastodon
 
 <!---
